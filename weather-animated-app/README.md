@@ -20,9 +20,10 @@ OpenWeather API
 # `npm start`
 
 Runs the app in the development mode.\
-Open http://localhost:3000 to view it in the browser.
+Open http://localhost:3000to view it in the browser.
 
 
 #deploy app to Netlify
 # `npm run build`
+Netlify: https://dazzling-halva-4c3fa1.netlify.app/
 
